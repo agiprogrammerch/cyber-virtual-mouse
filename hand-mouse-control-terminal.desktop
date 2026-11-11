@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Hand Mouse Control (Terminal)
+Comment=Control mouse cursor with hand tracking via webcam
+Exec=gnome-terminal -- /home/agi_programmer/cyber-virtual-mouse/launch_hand_mouse.sh
+Icon=video-display
+Terminal=false
+Categories=Utility;Accessibility;
+StartupNotify=true
